@@ -14,6 +14,10 @@ Fue creado como parte de la asignatura de **Fundamentos de Conversión Energéti
 
 💻 ¿Cómo usarlo?
 
+**************************************************************************
+** puedes copiar el código y correrlo en https://pythoncompiler.io/ ******
+**************************************************************************
+
 El programa te guiará paso a paso. Te pedirá:
 
 - La cantidad de reactivos y productos.
